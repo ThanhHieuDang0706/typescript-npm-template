@@ -5,7 +5,9 @@
     "type": "git"
   },
   "description": "Vue utility for using local storage as a data store",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "dev": "vitest",
     "test": "vitest run",
