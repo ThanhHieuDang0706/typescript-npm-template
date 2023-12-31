@@ -1,10 +1,11 @@
 {
-  "name": "vue-use-local-storage",
+  "name": "typescript-template-npm",
   "version": "1.0.0",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/ThanhHieuDang0706/typescript-npm-template"
   },
-  "description": "Vue utility for using local storage as a data store",
+  "description": "Typescript template to quickly develop, build and publish npm packages.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
